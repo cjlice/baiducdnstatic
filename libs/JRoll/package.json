@@ -1,0 +1,21 @@
+{
+  "name": "JRoll",
+  "filename": "jroll.js",
+  "version": "1.0.10",
+  "description": "一款能滚起上万条数据，具有滑动加速、回弹、缩放、滚动条、滑动事件等功能，兼容CommonJS/AMD/CMD模块规范，开源，免费的超轻量级html5滚动插件",
+  "homepage": "http://www.chjtx.com/JRoll/",
+  "keywords": ["JRoll", "醉萝卜", "HTML5滑动div插件"],
+  "maintainers": [
+	{
+	  "name": "陈健龙",
+	  "web": "http://my.oschina.net/cjlice",
+	  "mail": "jlong@chjtx.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://git.oschina.net/chenjianlong/JRoll.git"
+	}
+  ]
+}
